@@ -1,4 +1,4 @@
-aborn.github.io
+blog.popkit.org
 ==========
 
 ## INTRO
