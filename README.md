@@ -2,7 +2,7 @@ aborn.github.io
 ==========
 
 ## INTRO
-This project is [my blog's](http://blog.popkit.org) all source code
+This project is [blog.popkit.org](http://blog.popkit.org) all source code
 and posts, which uses Jekyll-Bootstrap. For more infomation about
 Jekyll-Bootstrap, please see:<http://jekyllbootstrap.com>
 
