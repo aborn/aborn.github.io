@@ -16,7 +16,8 @@ Jekyll-Bootstrap, please see:<http://jekyllbootstrap.com>
 git="https://github.com/jekyllbootstrap/theme-the-program.git"
 *  $ rake theme:install name="THEME-NAME"
 
-
+## RESUME
+http://resume.github.io/?aborn
 
 ## SWITCH THEME
 * $ rake theme:switch name="the-program"
